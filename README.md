@@ -1,4 +1,6 @@
 # Python EmailRep
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsublime-security%2Femailrep.io-python.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsublime-security%2Femailrep.io-python?ref=badge_shield)
+
 
 This is a python 3 library and cli module for interacting with the [EmailRep](https://emailrep.io) service.
 
@@ -34,3 +36,7 @@ emailrep.report("foo@bar.com", ["bec", "maldoc"], "Phishing email targeting CEO"
 ```
 
 Full API docs can be found [here](https://docs.emailrep.io).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsublime-security%2Femailrep.io-python.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsublime-security%2Femailrep.io-python?ref=badge_large)
